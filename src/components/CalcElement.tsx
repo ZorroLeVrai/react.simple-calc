@@ -1,5 +1,3 @@
-import { useState } from "react";
-
 interface CalcElementProps {
   index: number;
   command: string | number;
